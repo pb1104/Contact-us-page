@@ -1,0 +1,81 @@
+.l1{
+  height: 50px;
+  width: 100px;
+  border-radius: 50%;
+}
+.logo{
+  display: flex;
+  gap: 530px;
+}
+.logo ul{
+  display: flex;
+  gap: 150px;
+  font-weight: bolder;
+}
+.cu{
+  font-size: 28px;
+  font-weight: 800;
+  margin-left: 50px;
+  margin-right: 80px;
+}
+.cu1{
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 50px;
+  margin-right: 80px;
+}
+.i2{
+  height: 300px;
+  width: 300px;
+  border: 1px dotted black;
+}
+.i3{
+  height: 300px;
+  width: 300px;
+  border: 1px dotted black;
+}
+.f1 button{
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 5px;
+  padding: 10px 28px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.b2{
+  display: flex;
+  gap: 100px;
+}
+.f1{
+  margin-left: 80px;
+}
+.f2{
+  display: grid;
+  grid-row: 1fr;
+  gap: 10px;
+  margin-left: 90px;
+  margin-top: 10px;
+}
+.f2 input{
+  width: 340px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.s{
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  padding: 10px 28px;
+  border-radius: 5px;
+  margin-left: 90px;
+}
+form{
+  text-align:justify;
+}
+.im{
+  display: flex;
+  gap: 70px;
+}

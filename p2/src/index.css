@@ -1,0 +1,9 @@
+*{
+    font-family: sans-serif;
+    align-items: center;
+}
+button:hover{
+    color:black;
+    background-color: white;
+    border: 1px solid black;
+}
